@@ -1,18 +1,1 @@
-{
-    ".about": false,
-    ".blank": false,
-    ".faq": false,
-    ".footer": false,
-    ".heading": false,
-    ".logo": false,
-    ".navigation": false,
-    ".order": false,
-    ".pitch": false,
-    ".section1": false,
-    ".section2": false,
-    ".social": false,
-    ".subheading": false,
-    ".thermometer": false,
-    ".video": false,
-    "h1": false
-}
+https://github.com/infro42/bitstarter/tree/staging
